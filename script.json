@@ -1,6 +1,5 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Yatharth\n![Esther](https://raw.githubusercontent.com/yatharthsharma1/EstherBot/master/img/yatharth.jpg)\nWhat do you want to learn?%[About Yatharth](postback:about_yatharth)%[Professional Exp](postback:professional_exp)%[One random fact!](postback:random_fact)",
-    "ABOUT YATHARTH": "he is a fine guy",
     "HELLO": "Hey, I'm so glad you set YatharthBot up! Write BOT to start interacting with me",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, YatharthBot is back."
