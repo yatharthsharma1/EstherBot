@@ -2,7 +2,7 @@
     "HELLO": "Hi there!\nI’m the personal bot of Yatharth.\n![yatharth](https://raw.githubusercontent.com/yatharthsharma1/EstherBot/master/img/yatharth.jpg)\nWhat do you want to know about Yatharth? %[Intro](postback:intro) %[Work Exp](postback:work_exp) %[Education](postback:education_qual)",
     "INTRO": "Born and brought up in Bhopal, MP. Graduated from IIT Bombay in 2013. Loves football and travelling. Shifted to Bangalore recently after 7 years in Mumbai\nMore about Yatharth? %[Travelling](postback:travelling) %[Work Exp](postback:work_exp) %[Education](postback:education_qual)",
     "WORK EXP": "Travelling and Freelancing since January 2016. Cofounded a mobile app based fitness startup in Mumbai.Worked with Housing.com for about 1.5 years.\nHere's a copy of the CV \n![yatharth](https://raw.githubusercontent.com/yatharthsharma1/EstherBot/master/img/yatharth_resume.png)\nMore about Yatharth? %[Intro](postback:intro) %[Education](postback:education_qual)",
-    "EDUCATION": "Completed BTech in Chemical Engineering in the year 2013. Schooling done from DPS Bhopal and St Josephs Coed School Bhopal\nMore about Yatharth? %[Intro](postback:intro) %[Work Exp](postback:work_exp) %[Extra Currics](postback:extra_currics)",
+    "EDUCATION": "Completed BTech in Chemical Engineering from IIT Bombay in the year 2013. Schooling done from DPS Bhopal and St Josephs Coed School Bhopal\nMore about Yatharth? %[Intro](postback:intro) %[Work Exp](postback:work_exp) %[Extra Currics](postback:extra_currics)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, YatharthBot is back."
 }
