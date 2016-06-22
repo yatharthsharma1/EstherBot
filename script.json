@@ -1,6 +1,6 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Yatharth.\n![yatharth](https://raw.githubusercontent.com/yatharthsharma1/EstherBot/master/img/yatharth.jpg)\nWhat do you want to know? %[About Yatharth](postback:learn_about_yatharth) %[Work Exp](postback:work_exp) %[Education](postback:education_qual)",
-    "LEARN ABOUT YATHARTH": "Born and brought up in Bhopal, MP. Loves football and travelling. Shifted to Bangalore recently after spending last 7 years in Mumbai",
+    "BOT": "Hi there!\nI’m the personal bot of Yatharth.\n![yatharth](https://raw.githubusercontent.com/yatharthsharma1/EstherBot/master/img/yatharth.jpg)\nWhat do you want to know? %[About Yatharth](postback:about_yatharth) %[Work Exp](postback:work_exp) %[Education](postback:education_qual)",
+    "ABOUT YATHARTH": "Born and brought up in Bhopal, MP.\nGraduated from IIT Bombay in 2013.\nLoves football and travelling.\nShifted to Bangalore recently after 7 years in Mumbai",
     "HELLO": "Hey, I'm so glad you set YatharthBot up! Write BOT to start interacting with me",
     "HI": "Hey, I'm so glad you set YatharthBot up! Write BOT to start interacting with me",
     "HEY": "Hey, I'm so glad you set YatharthBot up! Write BOT to start interacting with me",
