@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hi there!\nI’m the personal bot of Yatharth.\n![yatharth](https://raw.githubusercontent.com/yatharthsharma1/EstherBot/master/img/yatharth.jpg)\nWhat do you want to know about Yatharth? %[Intro](postback:about_yatharth) %[Work Exp](postback:work_exp) %[Education](postback:education_qual)",
+    "HELLO": "Hi there!\nI’m the personal bot of Yatharth.\n![yatharth](https://raw.githubusercontent.com/yatharthsharma1/EstherBot/master/img/yatharth.jpg)\nWhat do you want to know about Yatharth? %[Intro](postback:intro) %[Work Exp](postback:work_exp) %[Education](postback:education_qual)",
     "ABOUT YATHARTH": "Born and brought up in Bhopal, MP.\nGraduated from IIT Bombay in 2013.\nLoves football and travelling.\nShifted to Bangalore recently after 7 years in Mumbai",
     "WORK EXP": "Travelling and Freelancing since January 2016.\nCofounded a mobile app based fitness startup in Mumbai.\nWorked with Housing.com for about 1.5 years.\nHere's a copy of the CV \n![yatharth](https://raw.githubusercontent.com/yatharthsharma1/EstherBot/master/img/yatharth_resume.png)",
     "CONNECT ME": "",
